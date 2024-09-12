@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Adolf-LYH
+- 👀 I’m interested in AICG, Interior Design, and Architectural Design.
+- 🌱 I’m currently learning Stable Diffusion and ComyUI.
+- 💞️ I am still an apprentice and cannot collaborate with anyone.
+- 📫 You don't need to contact me.
